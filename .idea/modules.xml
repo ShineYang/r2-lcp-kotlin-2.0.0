@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/r2-lcp-kotlin-2.0.0.iml" filepath="$PROJECT_DIR$/.idea/modules/r2-lcp-kotlin-2.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/r2-lcp/r2-lcp-kotlin-2.0.0.r2-lcp.iml" filepath="$PROJECT_DIR$/.idea/modules/r2-lcp/r2-lcp-kotlin-2.0.0.r2-lcp.iml" />
     </modules>
   </component>
 </project>
